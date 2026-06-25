@@ -1,109 +1,108 @@
 <div align="center">
 
-# 🎬 Nextflix Clone
+# 🎵 Spotify Clone
 
-### Netflix Inspired Streaming UI Clone
+### A Modern Spotify-Inspired Music Player
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-### 🍿 Bringing the Netflix Experience to the Web
+### 🎧 Listen • Play • Pause • Enjoy Music
 
 </div>
 
 ---
 
-## 📖 About The Project
+## 📖 About
 
-Nextflix Clone is a front-end recreation of the popular Netflix landing page and browsing experience built using **HTML, CSS, and Vanilla JavaScript**.
+This project is a **Spotify-inspired music player** built using **HTML, Tailwind CSS, and Vanilla JavaScript**.
 
-The project focuses on creating a visually appealing, responsive, and interactive user interface inspired by Netflix while strengthening core frontend development skills.
+The application provides a sleek and responsive interface similar to Spotify, allowing users to browse and play songs with an intuitive music player experience.
 
 ---
 
 ## ✨ Features
 
-🎬 Netflix-inspired UI Design
+🎵 Play & Pause Songs
 
-📱 Fully Responsive Layout
+⏭️ Next / Previous Track Controls
 
-⚡ Smooth User Experience
+📀 Dynamic Song Loading
 
-🎨 Modern Styling with Vanilla CSS
+🎚️ Interactive Progress Bar
 
-🔍 Interactive Components
+🎧 Real-Time Song Information
 
-🖥️ Cross-Browser Compatibility
+📱 Responsive Design
 
-📺 Hero Banner Section
+⚡ Fast and Lightweight
 
-🎞️ Movie & Series Cards
-
-🧭 Navigation Bar
-
-🔥 Trending Content Layout
+🎨 Spotify-Inspired User Interface
 
 ---
 
 ## 📸 Preview
 
-### Home Page
+### Home Screen
 
-Add your screenshots here:
-
-```md
-![Home Page](./assets/homepage.png)
-```
-
-### Browse Section
+> Add your screenshots here
 
 ```md
-![Browse Section](./assets/browse.png)
+![Spotify Clone](./assets/preview.png)
 ```
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
+
+### Frontend
 
 - HTML5
-- CSS3
+- Tailwind CSS
 - JavaScript (ES6)
+
+### Assets
+
+- MP3 Audio Files
+- Album Cover Images
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-Nextflix_Clone
+Spotify/
+│
+├── songs/
+│   ├── song1.mp3
+│   ├── song2.mp3
+│   └── ...
 │
 ├── index.html
-├── style.css
 ├── script.js
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── screenshots/
-│
-└── README.md
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
 
 ## 🚀 Getting Started
 
-### Clone Repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/Asmit-Yadav07/Nextflix_Clone.git
+git clone https://github.com/Asmit-Yadav07/Spotify.git
 ```
 
-### Open Project
+### Navigate to Project
 
 ```bash
-cd Nextflix_Clone
+cd Spotify
 ```
+
+### Run Locally
 
 Simply open:
 
@@ -117,46 +116,63 @@ No installation required ✅
 
 ---
 
-## 🎯 What I Learned
+## 🎯 Learning Outcomes
 
-Through this project, I practiced:
+This project helped me improve my understanding of:
 
-- Semantic HTML Structure
-- Responsive Web Design
-- Flexbox & CSS Grid
-- Modern CSS Styling
-- JavaScript DOM Manipulation
-- UI Recreation Techniques
-- Frontend Project Organization
+- DOM Manipulation
+- Audio API Handling
+- Event Listeners
+- Tailwind CSS Styling
+- Responsive Design
+- JavaScript ES6 Features
+- Frontend Project Structure
 
 ---
 
-## 🌟 Future Enhancements
+## 🎵 Functionalities
 
-- [ ] Dark Mode Toggle
+| Feature       | Status |
+| ------------- | ------ |
+| Play Song     | ✅     |
+| Pause Song    | ✅     |
+| Next Song     | ✅     |
+| Previous Song | ✅     |
+| Progress Bar  | ✅     |
+| Song List     | ✅     |
+| Responsive UI | ✅     |
+
+---
+
+## 🔮 Future Improvements
+
+- [ ] Volume Control
+- [ ] Shuffle Songs
+- [ ] Repeat Mode
+- [ ] Playlist Support
 - [ ] Search Functionality
-- [ ] Movie API Integration
-- [ ] User Authentication
-- [ ] Dynamic Content Loading
-- [ ] Watchlist Feature
+- [ ] Dark / Light Theme
+- [ ] Local Storage Support
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome.
+Contributions are welcome!
 
-1. Fork the Project
-2. Create a Feature Branch
-3. Commit Changes
-4. Push to Branch
+```bash
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to GitHub
 5. Open a Pull Request
+```
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Author
 
-### 👨‍💻 Asmit Yadav
+### Asmit Yadav
 
 GitHub: https://github.com/Asmit-Yadav07
 
@@ -164,6 +180,8 @@ GitHub: https://github.com/Asmit-Yadav07
 
 <div align="center">
 
-### ⭐ If you like this project, don't forget to star the repository!
+### ⭐ If you like this project, give it a Star!
+
+🎵 Made with HTML, Tailwind CSS & JavaScript
 
 </div>
